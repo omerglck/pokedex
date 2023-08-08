@@ -1,6 +1,6 @@
 # Pokedex
 
-- Filtreleme yöntemi ile pokemonları arayabileceğimiz bir web tabanlı uygulama.
+- Bu uygulama Pokemon verilerini çeken ve kullanıcının girdiği Pokemon isimlerine göre ilgili verileri görsel olarak sunan bir arayüze sahiptir.
 
 ## Kullanılan Teknolojiler
 
