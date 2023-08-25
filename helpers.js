@@ -4,6 +4,7 @@ export const elements = {
   searchBtn: document.querySelector(".searchBtn"),
   searchInput: document.querySelector(".searchInput"),
   pokemon: document.querySelectorAll(".poke-name"),
+  body: document.querySelector("body"),
 };
 
 export const bg_color = {

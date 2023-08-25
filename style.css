@@ -6,7 +6,9 @@ body {
   justify-content: center;
   text-align: center;
   flex-direction: column;
-  background-image: linear-gradient(to right, #f82600 0%, #f9d423);
+  background: linear-gradient(to right, #f82600 0%, #f9d423);
+
+  background: rgb(100, 20, 50) + rgb(58, 45, 12);
 }
 h1 {
   color: #fff;
